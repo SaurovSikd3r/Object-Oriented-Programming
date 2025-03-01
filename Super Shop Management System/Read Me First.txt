@@ -1,0 +1,4 @@
+For Run This Project You need to put (Project file) folder in your C drive .
+please put that folder in c drive .
+After put that project file in C Drive . Location will be - C:/Project File
+

@@ -1,0 +1,282 @@
+Product Name: : Horlicks
+Product Code: : ZXYZ
+Price: : 300
+Stores: : Dhaka(Gulshan)
+Quantity: : 100
+
+
+Product Name: : Soyabean Oil
+Product Code: : XAXY
+Price: : 150
+Stores: : Dhaka(Banani)
+Quantity: : 100
+
+
+Product Name: : Chocolate
+Product Code: : CXCY
+Price: : 50
+Stores: : Dhaka(Dhanmondi)
+Quantity: : 100
+
+
+Product Name: : Sauce
+Product Code: : SXUV
+Price: : 90
+Stores: : Dhaka(Gulshan)
+Quantity: : 100
+
+
+Product Name: : Egg
+Product Code: : XGCD
+Price: : 30
+Stores: : Dhaka(Farmgate)
+Quantity: : 200
+
+
+Product Name: : Noodles
+Product Code: : NAXZ
+Price: : 70
+Stores: : Dhaka(Mohakhali)
+Quantity: : 100
+
+
+Product Name: : Rice
+Product Code: : RXYZ
+Price: : 1000
+Stores: : Dhaka(Gulshan)
+Quantity: : 100
+
+
+Product Name: : Mustard Oil
+Product Code: : OIXYZ
+Price: : 150
+Stores: : Dhaka(Azimpur)
+Quantity: : 100
+
+
+Product Name: : Atta
+Product Code: : AXYZ
+Price: : 80
+Stores: : Dhaka(Gulshan)
+Quantity: : 100
+
+
+Product Name: : Sugar
+Product Code: : VXIZ
+Price: : 75
+Stores: : Dhaka(Uttara)
+Quantity: : 100
+
+
+Product Name: : Soap
+Product Code: : YXYZ
+Price: : 60
+Stores: : Dhaka(Gulshan)
+Quantity: : 100
+
+
+Product Name: : Vim Dish Wash
+Product Code: : UXYZ
+Price: : 300
+Stores: : Dhaka(Gulshan)
+Quantity: : 100
+
+
+Product Name: : Olive Oil
+Product Code: : LXYZ
+Price: : 900
+Stores: : Dhaka(Gulshan)
+Quantity: : 100
+
+
+Product Name: : Tea
+Product Code: : TXYZ
+Price: : 120
+Stores: : Dhaka(Gulshan)
+Quantity: : 100
+
+
+Product Name: : Coffee
+Product Code: : COYZ
+Price: : 250
+Stores: : Dhaka(Puran Dhaka)
+Quantity: : 100
+
+
+Product Name: : Milk Powder
+Product Code: : MXYZ
+Price: : 300
+Stores: : Dhaka(Gulshan)
+Quantity: : 100
+
+
+Product Name: : Onion
+Product Code: : NXYZ
+Price: : 50
+Stores: : Dhaka(Gulshan)
+Quantity: : 100
+
+
+Product Name: : Breads
+Product Code: : BRXYZ
+Price: : 45
+Stores: : Dhaka(Gulshan)
+Quantity: : 100
+
+
+Product Name: : Cakes
+Product Code: : BCYZ
+Price: : 80
+Stores: : Dhaka(Azimpur)
+Quantity: : 100
+
+
+Product Name: : Biscuits
+Product Code: : BGXYZ
+Price: : 65
+Stores: : Dhaka(Azimpur)
+Quantity: : 100
+
+
+Product Name: : Pran Jam
+Product Code: : PJYZ
+Price: : 110
+Stores: : Dhaka(Gulshan)
+Quantity: : 100
+
+
+Product Name: : Peanut
+Product Code: : PEXYZ
+Price: : 95
+Stores: : Dhaka(New Market)
+Quantity: : 100
+
+
+Product Name: : Honey
+Product Code: : HNYZ
+Price: : 300
+Stores: : Dhaka(New Market)
+Quantity: : 100
+
+
+Product Name: : Harpic
+Product Code: : HAYZ
+Price: : 125
+Stores: : Dhaka(Gulshan)
+Quantity: : 100
+
+
+Product Name: : Coca Cola 600ML
+Product Code: : C600OX
+Price: : 40
+Stores: : Dhaka(Gulshan)
+Quantity: : 100
+
+
+Product Name: : Coca Cola 1L
+Product Code: : C1XYZ
+Price: : 60
+Stores: : Dhaka(Gulshan)
+Quantity: : 100
+
+
+Product Name: : Coca Cola 2L
+Product Code: : C2XYZ
+Price: : 110
+Stores: : Dhaka(Gulshan)
+Quantity: : 100
+
+
+Product Name: : Fresh Natural Drinking Water 5L
+Product Code: : F5ZXYZ
+Price: : 75
+Stores: : Dhaka(Zigatola)
+Quantity: : 100
+
+
+Product Name: : Pepsodent Germi Check Plus 200gm
+Product Code: : PEPEX
+Price: : 130
+Stores: : Dhaka(Gulshan)
+Quantity: : 100
+
+
+Product Name: : Miniket Rice Loose 1KG
+Product Code: : MKTYZ
+Price: : 66
+Stores: : Dhaka(Banani)
+Quantity: : 100
+
+
+Product Name: : Deshi Moshur Daal Loose 1KG
+Product Code: : DMKXYZ
+Price: : 115
+Stores: : Dhaka(Mohakhali)
+Quantity: : 100
+
+
+Product Name: : Surf Excel 1KG
+Product Code: : SEZZ
+Price: : 210
+Stores: : Dhaka(Mohakhali)
+Quantity: : 100
+
+
+Product Name: : Bashundhara Toilet Tissue
+Product Code: : BTXYZ
+Price: : 17
+Stores: : Dhaka(Mirpur)
+Quantity: : 100
+
+
+Product Name: : Radhuni Chilli Powder 100gm
+Product Code: : REXYZ
+Price: : 53
+Stores: : Dhaka(Gulshan)
+Quantity: : 100
+
+
+Product Name: : Aarong Liquid Milk 500ML
+Product Code: : ARXYZ
+Price: : 35
+Stores: : Dhaka(Gulshan)
+Quantity: : 100
+
+
+
+Product Name: : Custured Oil
+Product Code: : JHKL
+Price: : 450
+Stores: : Dhaka(NabinBagh)
+Quantity: : 100
+
+
+Product Name: : shampoo
+Product Code: : YHUj
+Price: : 320
+Stores: : DHaka (Nobinagar)
+Quantity: : 100
+
+
+
+Product Name: : Glass
+Product Code: : JKlh
+Price: : 200
+Stores: : Aftabnagar
+Quantity: : 100
+
+
+Product Name: : hgsdjfg
+Product Code: : gasg
+Price: : fdagda
+Stores: : afdgasdg
+Quantity: : afdga
+
+
+Product Name: : Horlicks
+Product Code: : JHKl
+Price: : 300
+Stores: : Aftabnagar
+Quantity: : 300
+
+
